@@ -1,0 +1,5 @@
+#!/Users/dipitmadan/Documents/AI_ML_Course/scikit-learn/env/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

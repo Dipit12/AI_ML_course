@@ -1,0 +1,13 @@
+prefix=/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env
+exec_prefix=/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env
+libdir=/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/lib
+sharedlibdir=/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/lib
+includedir=/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

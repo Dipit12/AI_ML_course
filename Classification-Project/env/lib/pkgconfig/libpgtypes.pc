@@ -1,0 +1,9 @@
+Name: libpgtypes
+Description: PostgreSQL libpgtypes library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: 
+Cflags: -I/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/include
+Libs: -L/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/lib -lpgtypes
+Libs.private: -L/Users/dipitmadan/Documents/AI_ML_Course/Classification-Project/env/lib -lpgcommon -lpgport -lm

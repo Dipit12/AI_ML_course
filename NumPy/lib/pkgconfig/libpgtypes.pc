@@ -1,0 +1,9 @@
+Name: libpgtypes
+Description: PostgreSQL libpgtypes library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: 
+Cflags: -I/Users/dipitmadan/Documents/AI_ML_Course/numpy/include
+Libs: -L/Users/dipitmadan/Documents/AI_ML_Course/numpy/lib -lpgtypes
+Libs.private: -L/Users/dipitmadan/Documents/AI_ML_Course/numpy/lib -lpgcommon -lpgport -lm

@@ -1,0 +1,9 @@
+Name: libpq
+Description: PostgreSQL libpq library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: 
+Cflags: -I/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/include
+Libs: -L/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/lib -lpq
+Libs.private: -L/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/lib -lpgcommon -lpgport -lssl -lcrypto -lgssapi_krb5 -lm

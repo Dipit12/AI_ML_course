@@ -1,0 +1,24 @@
+Machines can perform tasks really fast
+we can program machines to do certain things for ous
+machines are good at things we tell them to do
+eg: if route1> route 2 && route1 >route3 then pick route 1
+
+but how can a machine tell if a person is angry or not
+can we tell a machine what a cat is
+
+Machine Learning: programming machines to do things without explicitedly statin them
+website: teachable machine
+Big data is stored in NoSql databases like mongoDB, coz they help to store unstructured data unlike SQL
+
+Machine Learning can be divided into:
+1. Supervised(labelled data):
+    . Classification
+    . Regression
+2. Unsupervised(unlabelled data):
+    .Clustering
+    . Association
+3.Reinforcement
+    .Skill acquisition
+    . Real time learning
+
+Machine learning algorithm/model takes in data and predicts future patterns based on the previous data

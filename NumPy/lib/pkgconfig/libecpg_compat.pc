@@ -1,0 +1,9 @@
+Name: libecpg_compat
+Description: PostgreSQL libecpg_compat library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: libecpg libpgtypes
+Cflags: -I/Users/dipitmadan/Documents/AI_ML_Course/numpy/include
+Libs: -L/Users/dipitmadan/Documents/AI_ML_Course/numpy/lib -lecpg_compat
+Libs.private: -L/Users/dipitmadan/Documents/AI_ML_Course/numpy/lib -lpgcommon -lpgport -lpq -lm

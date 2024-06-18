@@ -1,0 +1,14 @@
+prefix=/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2
+exec_prefix=/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2
+libdir=/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/lib
+includedir=/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/lib -lfreetype
+Libs.private: -lz -L/Users/dipitmadan/Documents/AI_ML_Course/Pandas/env2/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2
